@@ -15,7 +15,9 @@ public class Ex02 {
 		  ⦁	double
 		  ⦁	String
 		  
-		  정답: boolean, long, float, double
+		  정답: char, byte, short, int, String
+		  안되는것: boolean, long, float, double
+		  
 		  */
 	}
 
